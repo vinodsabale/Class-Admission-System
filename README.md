@@ -2,6 +2,8 @@
 
 Class Admission System project summary:-
 
+Languages Use like JAVA,SQL.
+
 Objective
 Develop a system for managing class admissions.
 Allow users to sign up, log in, and perform various operations like managing courses and fees.
